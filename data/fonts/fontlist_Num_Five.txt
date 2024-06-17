@@ -1,0 +1,5 @@
+LED1/DS-DIGI.TTF
+LED2/DS-DIGII.TTF
+LED3/DS-DIGIT.TTF
+Normalnum1/FUTRFW.TTF
+Normalnum2/monofontorg.ttf

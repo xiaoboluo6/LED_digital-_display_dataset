@@ -30,7 +30,7 @@ matlab代码生成对应深度图和分割图，后续利用本仓库生成数�
 后续根据实际要求做出调整，包括数字位数，数字颜色，LED字体差异，真实数字前多一个8的残影等情况，不多加赘述
 
 ## Relevant Project
-检测[yolov8_Objection_Django](https://github.com/xiaoboluo6/yolov8_Objection_Django)
+检测：[yolov8_Objection_Django](https://github.com/xiaoboluo6/yolov8_Objection_Django)
 
 
 
